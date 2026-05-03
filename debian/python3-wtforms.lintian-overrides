@@ -1,0 +1,4 @@
+python3-wtforms: copyright-without-copyright-notice
+python3-wtforms: initial-upload-closes-no-bugs
+python3-wtforms: no-manual-page
+python3-wtforms: zero-byte-file-in-doc-directory
