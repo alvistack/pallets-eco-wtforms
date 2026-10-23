@@ -1,0 +1,5 @@
+python-wtforms source: file-without-copyright-information
+python-wtforms source: no-debian-changes
+python-wtforms source: source-contains-prebuilt-windows-binary
+python-wtforms source: source-is-missing
+python-wtforms source: source-package-encodes-python-version
